@@ -1,0 +1,1 @@
+Echo of eternity fills the void : $(first) $(second)
